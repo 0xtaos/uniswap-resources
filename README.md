@@ -36,6 +36,7 @@
 - [Uniswap v3 Core security assessment — Trail of Bits](https://github.com/trailofbits/publications/blob/master/reviews/UniswapV3Core.pdf)
 - [Liquidity Mining on Uniswap v3 — Paradigm](https://www.paradigm.xyz/2021/05/liquidity-mining-on-uniswap-v3)
 - [Uniswap's Financial Alchemy — Paradigm](https://research.paradigm.xyz/uniswaps-alchemy)
+- [Exploring Security Risks in Uniswap v4’s Novel Hook Mechanism](https://blocksecteam.medium.com/thorns-in-the-rose-exploring-security-risks-in-uniswap-v4s-novel-hook-mechanism-270f22158087)
 
 ## Videos/Podcasts/Tutorials
 - [Uniswap v2 contracts walkthrough](https://ethereum.org/ro/developers/tutorials/uniswap-v2-annotated-code/)
